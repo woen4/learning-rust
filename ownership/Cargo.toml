@@ -1,5 +1,5 @@
 [package]
-name = "rust-playground"
+name = "ownership"
 version = "0.1.0"
 authors = ["woen4 <woenof@gmail.com>"]
 edition = "2018"

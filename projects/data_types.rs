@@ -81,4 +81,6 @@ fn main() {
   // Uma matriz no rust sempre tem valor constante, ela não pode crescer
   // em número de elementos, (Matrizes são armazenadas na stack memory)
   let a = [1, 2, 3, 4, 5];
+
+  let str = String("aaa");
 }
